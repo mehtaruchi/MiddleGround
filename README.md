@@ -1,17 +1,17 @@
 # MiddleGround
-Find a middle point, convenient for all people to meet!
+We go the extra mile, so you dont have to!
 
 
 Frontend-
 HTML, CSS, BOOTSTRAP, Javascript
 
 Backend-
-Google maps api, Python, Flask, SQLAlchemy
+Google maps API, Python, Flask, SQLAlchemy
 
 Dependancies-
 pip install googlemaps
 pip install gmplot - In gmplot
-change self.coloricon=http.://www.googlemapmarkers.com/v1/%s/
+change self.coloricon=http://www.googlemapmarkers.com/v1/%s/
 pip install googlemaps
 pip install geopy
 API key for GoogleMaps
