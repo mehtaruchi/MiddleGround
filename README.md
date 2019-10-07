@@ -1,6 +1,7 @@
 # MiddleGround
 We go the extra mile, so you dont have to!
 
+A project developed for the KJSCE Hackathn 2019.
 
 Frontend-
 HTML, CSS, BOOTSTRAP, Javascript
